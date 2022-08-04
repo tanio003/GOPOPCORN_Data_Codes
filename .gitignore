@@ -1,0 +1,15 @@
+.rstudio/
+
+.DS_Store
+*.Rapp.history
+*.Rhistory
+*.RData
+*.Rproj
+*tmp*
+*.Rmd
+README.html
+*.swp
+R/*.swp
+TODO.md
+*~$*
+
